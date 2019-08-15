@@ -1,16 +1,16 @@
 ---
 layout: page
 title: About
-description: 
+description: description
 keywords: Commando, 黄亮
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-我是黄亮。
+我是黄亮
 
-人生是一个舞台，每个人都在真实的演出。
+人生是一个舞台 每个人都在真实的演出
 
 ## 联系
 
