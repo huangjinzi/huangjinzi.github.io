@@ -2,13 +2,13 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url:https://huangjinzi.github.io
+url: https://huangjinzi.github.io
 date_format: "ordinal"
 title: Commando
 subtitle: "Como的个人博客"
 description: "Como的个人博客"
 keywords: huangjinzi, como
-timezone: Asia/BeiJing
+timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
 
