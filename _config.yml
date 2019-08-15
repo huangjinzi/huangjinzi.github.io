@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url:https://huangjinzi.github.io/
+url:https://huangjinzi.github.io
 date_format: "ordinal"
 title: Commando
 subtitle: "Como的个人博客"
