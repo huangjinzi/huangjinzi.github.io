@@ -104,8 +104,8 @@ gitment:
 gitalk:
     owner: huangjinzi
     repo: blog-comments
-    clientID: d2e1cbbd298958076462
-    clientSecret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+    clientID: d9b1345f158d64dce3d4
+    clientSecret: d157bc1032f738444e2c9aebc2ec404dac45dbed
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
